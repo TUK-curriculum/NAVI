@@ -5,8 +5,8 @@
 ## 🚀 PR 타입
 <!-- ✅를 사용해 PR 타입을 체크해주세요 -->
 
-- [ ] 버그수정(Bugfix)
-- [ ] 기능개발(Feature)
+- [ ] 버그 수정(Bugfix)
+- [ ] 기능 개발(Feature)
 - [ ] 코드 스타일 변경(Code style update) (formatting, local variables)
 - [ ] 리팩토링 (no functional changes, no api changes)
 - [ ] UI 디자인 변경
