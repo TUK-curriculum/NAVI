@@ -9,7 +9,7 @@ body:
     attributes:
       label: '상위 작업 (Ticket Number)'
       description: '상위 작업의 Ticket Number를 기입해 주세요.'
-      placeholder: 'COM-'
+      placeholder: 'NAVI-'
     validations:
       required: true
       
